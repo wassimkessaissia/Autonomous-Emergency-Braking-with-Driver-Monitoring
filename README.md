@@ -50,10 +50,10 @@ This system combines:
 ## Demo Videos
 
 ### 1. Driver State Detection
-[Watch Video](videos/driver_state_based_warning.mp4)
+[Watch Video](Videos/driver_state_based_warning.mp4)
 
 ### 2. Drowsy Driver Intervention  
-[Watch Video](videos/motor_control_closed_eyes.mp4)
+[Watch Video](Videos/motor_control_closed_eyes.mp4)
 
 ### 3. Distracted Driver Intervention
 [Watch Video](Videos/motor_control_no_look_or_face_not_detected.mp4) 
