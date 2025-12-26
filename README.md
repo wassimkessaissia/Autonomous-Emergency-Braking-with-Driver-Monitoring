@@ -56,7 +56,7 @@ This system combines:
 [Watch Video](videos/motor_control_closed_eyes.mp4)
 
 ### 3. Distracted Driver Intervention
-[Watch Video](videos/motor_control_no_look_or_face _not_detected.mp4)
+[Watch Video](Videos/motor_control_no_look_or_face_not_detected.mp4) 
 
 ## Project Structure
 ```
