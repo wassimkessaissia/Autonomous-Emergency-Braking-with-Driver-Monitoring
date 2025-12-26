@@ -75,10 +75,21 @@ This system combines:
 
 ## Future Improvements
 
-- Add ultrasonic sensor for redundancy
-- Implement OLED display for status visualization
-- Add lane departure warning
-- Integrate GPS for location-based alerts
+### Short-term (Feasible with current hardware)
+- **Ultrasonic sensor integration**: Add redundant distance measurement for improved accuracy
+- **OLED display**: Visualize system status (driver state, distance, motor speed) in real-time
+- **Data logging**: Record driver states and interventions for analysis and tuning
+
+### Medium-term (Next project evolution)
+- **Lane departure warning**: Use camera to detect lane markings and alert driver
+- **Traffic sign recognition**: Detect and classify road signs for context-aware warnings
+- **Multi-object tracking**: Handle multiple obstacles simultaneously
+
+### Long-term (Production-oriented)
+- **CAN bus integration**: Connect to actual vehicle systems
+- **ISO 26262 compliance**: Implement automotive safety standards
+- **Speed measurement**: Add encoder for closed-loop motor control
+
 ## Challenges & Solutions
 
 ### Challenge 1: Roll Angle Instability (Gimbal Lock)
